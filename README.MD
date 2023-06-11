@@ -76,11 +76,6 @@ Dataset for GDP per capita (current US$) is downloaded from The world Bank (http
 * Based on the graph, **The United States** and **Brazil** have the highest total COVID-19 deaths counts. Followed by **Mexico**, **India** and **The United Kingdom**.
 
 
-**Percentage of Total Cases and Deaths**
-
-![alt text](https://github.com/Cristhian-Ninanya/covid-19_impacts/blob/main/Images/total_cases_deaths.png?raw=true)
-
-
 **Stringency Index**
 
 ![alt text](https://github.com/Cristhian-Ninanya/covid-19_impacts/blob/main/Images/si_index.png?raw=true)
